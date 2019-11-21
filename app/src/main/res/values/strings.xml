@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DontPad App</string>
+    <string name="button_picture">Imagem</string>
+    <string name="button_text">Texto</string>
+    <string name="enter_text">Insira seu texto aqui!</string>
+    <string name="hint_tag">Insira a tag para associar ao texto e à imagem</string>
+    <string name="tag">Tag/Etiqueta</string>
+    <string name="current_page">Paginal atual</string>
+    <string name="newTag">Nova Tag</string>
+    <string name="dica_login">Insert your login</string>
+    <string name="dica_senha">Insert your password</string>
+    <string name="quero_me_cadastrar">SignUp</string>
+
+    <string name="empty_email">Para tirar uma foto, deve ser cadastrado um e-mail.</string>
+    <string name="no_pic_taken">Foto não foi tirada.</string>
+
+    <string name="no_camera">Could not take any pictures.</string>
+    <string name="image_selected">Image From Gallery</string>
+    <string name="No_img_on_gallery">No image on gallery found</string>
+    <string name="Camera">Camera sign</string>
+
+    <string name="REQ_CODE_CAMERA" translatable="false">1001</string>
+    <string name="PICK_IMAGE_REQUEST" translatable="false">100</string>
+    <string name="clickToOpen">Click to view text</string>
+</resources>
